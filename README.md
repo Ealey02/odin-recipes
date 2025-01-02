@@ -4,7 +4,9 @@ Creating a website of recipes using HTML5 involves structuring the webpage with 
 
 # Objectives
 Creating recipes 
+
 Create pages for said recipes
+
 upload to GitHub
 
 # Recipes
